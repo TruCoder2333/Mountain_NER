@@ -7,4 +7,4 @@ The dataset has to be tokenized 2 times in my case(for annotation and for BERT),
 
 Model paramaters are pretty basic, just with a custom collating function because the sentences have varying lengtjs
 
-Model has 97% accuracy, precision, recall and f1 scores and seems to be working just fine as this is not a hard task in general
+Model has 97% accuracy, precision, recall and f1 scores
